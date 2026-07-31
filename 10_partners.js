@@ -31,7 +31,7 @@ const partnersData = [
         type: "نوع الشريك", 
         // اكتب اسم الصورة الخاصة بك هنا والتي قمت بوضعها في مجلد Partners
         logo: "Partners/new-partner.png", 
-        status: "visible" // "visible" لكي يظهر مباشرة في الموقع
+        status: "soon" // "visible" لكي يظهر مباشرة في الموقع
     }
 ];
 
