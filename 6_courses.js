@@ -6,7 +6,7 @@ const coursesData = [
         category: "اقتصاد رقمي",
         name: "مسار الاقتصاد الرقمي | Digital Economy Pathway",
         imgInner: "Partners/digital_economy_inner.jpg", // مسار الصورة من جهازك
-        imgOuter: "Partners/digital_economy_outer.jpg", // مسار الصورة من جهازك
+        imgOuter: "Partners/digital_economy_inner.jpg", // مسار الصورة من جهازك
         isFeatured: true, // بطاقة مميزة
         tags: "#مسار_الاقتصاد_الرقمي #الاقتصاد_الرقمي #Digital_Economy #ELEVATE #فرص_الشباب #تدريب_مجاني #ريادة_الأعمال",
         deadline: "2026-08-08", // آخر موعد للتسجيل
