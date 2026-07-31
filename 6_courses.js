@@ -1,7 +1,7 @@
 // ملف 6: الكورسات (Courses)
 const coursesData = [
     {
-        id: "crs_digital_aug2026", // 👈 تم تغيير الـ id هنا لضمان التحديث عند جميع المستخدمين
+        id: "crs_digital_aug2027", // 👈 تم تغيير الـ id هنا لضمان التحديث عند جميع المستخدمين
         type: "courses",
         category: "اقتصاد رقمي",
         name: "مسار الاقتصاد الرقمي | Digital Economy Pathway",
