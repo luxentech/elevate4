@@ -23,7 +23,7 @@ const siteSettings = {
         "volunteering": "soon",    // التطوع (مثال: جعلناه قريباً)
         "jobs":         "soon", // الوظائف
         "events":       "soon", // الفعاليات
-        "courses":      "soon",  // الكورسات (مثال: جعلناه مخفي)
+        "courses":      "visible",  // الكورسات (مثال: جعلناه مخفي)
         "workshops":    "soon", // ورش العمل
         "travel":       "soon", // السفر الممول
         "admission":    "soon"  // القبول الجامعي
