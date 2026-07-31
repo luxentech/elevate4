@@ -1,16 +1,15 @@
 // ملف 6: الكورسات (Courses)
 const coursesData = [
     {
-        id: "crs_001",
+        id: "crs_digital_aug2026", // 👈 تم تغيير الـ id هنا لضمان التحديث عند جميع المستخدمين
         type: "courses",
         category: "اقتصاد رقمي",
         name: "مسار الاقتصاد الرقمي | Digital Economy Pathway",
-        imgInner: "Partners/digital_economy_inner.jpg", // مسار الصورة من جهازك
-        imgOuter: "Partners/digital_economy_inner.jpg", // مسار الصورة من جهازك
-        isFeatured: true, // بطاقة مميزة
+        imgInner: "Partners/digital_economy_inner.jpg",
+        imgOuter: "Partners/digital_economy_outer.jpg",
+        isFeatured: true,
         tags: "#مسار_الاقتصاد_الرقمي #الاقتصاد_الرقمي #Digital_Economy #ELEVATE #فرص_الشباب #تدريب_مجاني #ريادة_الأعمال",
-        deadline: "2026-08-08", // آخر موعد للتسجيل
-        // الوصف كامل باستخدام الـ Backticks ( ` ) للحفاظ على التنسيق والسطور
+        deadline: "2026-08-08",
         description: `🚀 مسار الاقتصاد الرقمي | طريقك نحو مستقبل رقمي أقوى 🌐
 في عالم يتغير بسرعة، أصبحت المهارات الرقمية هي مفتاح النجاح والتميز.
 ومن هنا يأتي برنامج "مسار الاقتصاد الرقمي" ليمنحك فرصة حقيقية لاكتساب المعرفة والمهارات التي تؤهلك للمنافسة في سوق العمل الحديث وبناء مستقبل مهني واعد.
